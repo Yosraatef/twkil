@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7f7beb12-fc7d-4e64-90d9-b9d049c8079a" name="twkil" url="http://altwkeel.com">
+        <fileTransfer rootFolder="/altwkeel.com" accessType="FTPS" host="altwkeel.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
